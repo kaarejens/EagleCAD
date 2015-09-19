@@ -1,0 +1,3 @@
+# EagleCAD
+
+EagleCAD libraries collection
